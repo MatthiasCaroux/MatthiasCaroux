@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Currently studying : 2nd year of BUT Informatique<br>🏢Apprentice at  : Crédit Agricole (CA-GIP)<br>🚀Working on : Different website and application in PHP and Flutter<br>📚Learning  : JS Framework & advanced PHP<br>💪🏼Hobbies  : Fitness and Coding
+💻Currently studying : 3rd year of BUT Informatique<br>🏢Apprentice at  : Crédit Agricole (CA-GIP)<br>🚀Working on : Different website and application in PHP and Flutter<br>📚Learning  : JS Framework & advanced PHP<br>💪🏼Hobbies  : Fitness and Coding
 
 
 ## 🌐 Socials:
